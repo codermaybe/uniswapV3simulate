@@ -1,0 +1,9 @@
+[package]
+name = "tools"
+version = "0.1.0"
+edition = "2024"
+description = "A utility tool for my Forge project"
+
+[dependencies]
+num = "0.4.3"
+rust_decimal = "1.36.0"
